@@ -36,6 +36,10 @@ REPEATABLE_KEYS = {
     Key.tab,
     Key.delete,
     Key.space,
+    Key.left,
+    Key.up,
+    Key.right,
+    Key.down,
 }
 
 # Human-readable labels for special keys
